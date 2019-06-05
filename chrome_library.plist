@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DefaultBrowserSettingEnabled</key>
+	<false/>
+	<key>DefaultNotificationsSetting</key>
+	<integer>2</integer>
+	<key>DeviceAutoUpdateDisabled</key>
+	<true/>
+	<key>HideWebStorePromo</key>
+	<true/>
+	<key>MetricsReportingEnabled</key>
+	<false/>
+	<key>RestoreOnStartup</key>
+	<integer>4</integer>
+	<key>ShowHomeButton</key>
+	<true/>
+	<key>WelcomePageOnOSUpgradeEnabled</key>
+	<false/>
+    <key>DefaultPluginsSetting</key>
+    <true/>
+    <key>PluginsAllowedForUrls</key>
+    <array>
+        <string>[*.]sd38.bc.ca</string>
+        <string>[*.]worldbookonline.com</string>
+        <string>[*.]follettsoftware.com</string>
+    </array>
+    <key>DefaultBrowserSettingEnabled</key>
+    <false/>
+    <key>HomepageIsNewTabPage</key>
+    <false/>
+    <key>HomepageLocation</key>
+        <string>http://destiny.sd38.bc.ca</string>
+    <key>RestoreOnStartupURLs</key>
+    <array>
+        <string>http://destiny.sd38.bc.ca</string>
+    </array>
+    <key>IncognitoModeAvailability</key>
+    <integer>1</integer>
+</dict>
+</plist>
